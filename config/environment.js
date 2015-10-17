@@ -5,7 +5,7 @@ module.exports = function(environment) {
     modulePrefix: 'ember2-blog',
     environment: environment,
     contentSecurityPolicy: { 'connect-src': "'self' https://auth.firebase.com wss://*.firebaseio.com" },
-    firebase: 'https://jojo-ember2-blog.firebaseio.com/',
+    firebase: 'https://jo-ember2-blog.firebaseio.com/',
     baseURL: '/',
     locationType: 'auto',
     EmberENV: {

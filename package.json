@@ -1,7 +1,7 @@
 {
   "name": "ember2-blog",
   "version": "0.0.0",
-  "description": "Small description for ember2-blog goes here",
+  "description": "Blog post app made with Ember 2.0",
   "private": true,
   "directories": {
     "doc": "doc",
